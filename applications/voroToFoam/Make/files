@@ -1,0 +1,4 @@
+voronoiMesh.C
+voroToFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/voroToFoam
