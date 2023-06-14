@@ -39,7 +39,7 @@ Starting from a cloud of points in `points.dat`, the following grid is obtained
 
 
 ## TODO ##
-* Avoid zero area faces: [reference](applications/voroToFoam/voronoiMesh.C?plain=304)
+* Avoid zero area faces: [reference](applications/voroToFoam/voronoiMesh.C?plain=1#L304)
 * The mesh generation can be extended to generic shapes, like in [this site](https://math.lbl.gov/voro++/examples/)
 * Parallel implementation
 
