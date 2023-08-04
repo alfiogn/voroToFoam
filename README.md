@@ -43,3 +43,31 @@ Starting from a cloud of points in `points.dat`, the following grid is obtained
 * The mesh generation can be extended to generic shapes, like in [this site](https://math.lbl.gov/voro++/examples/)
 * Parallel implementation
 
+## References ##
+
+* [Negrini, G., Parolini, N., & Verani, M. (2023). *The Rhie-Chow stabilized Box Method for the Stokes problem*.](https://arxiv.org/abs/2308.01059)
+```
+@misc{negrini2023rhiechow,
+      title = {The {R}hie-{C}how stabilized {B}ox {M}ethod for the {S}tokes problem},
+      author = {G. Negrini and N. Parolini and M. Verani},
+      year = {2023},
+      eprint = {2308.01059},
+      archivePrefix = {arXiv},
+      primaryClass = {math.NA}
+}
+```
+* [Negrini, G., Parolini, N., & Verani, M. (2021). *A diffuse interface box method for elliptic problems*. Applied Mathematics Letters, 120, 107314.](https://www.sciencedirect.com/science/article/pii/S0893965921001646)
+```
+@article{NEGRINI2021107314,
+    title = {A diffuse interface box method for elliptic problems},
+    journal = {Applied Mathematics Letters},
+    volume = {120},
+    pages = {107314},
+    year = {2021},
+    issn = {0893-9659},
+    doi = {https://doi.org/10.1016/j.aml.2021.107314},
+    url = {https://www.sciencedirect.com/science/article/pii/S0893965921001646},
+    author = {G. Negrini and N. Parolini and M. Verani},
+    keywords = {Box method, Diffuse interface, Complex geometries}
+}
+```
